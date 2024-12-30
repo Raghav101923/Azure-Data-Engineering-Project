@@ -1,0 +1,52 @@
+[
+    {
+        "parameter_relative_url" : "Raghav101923/Azure-Data-Engineering-Project/refs/heads/main/Data%20Files/AdventureWorks_Calendar.csv",
+        "parameter_sink_folder" : "AdventureWorks_Calendar",
+        "parameter_file_name" : "AdventureWorks_Calendar.csv"
+    },
+    {
+        "parameter_relative_url" : "Raghav101923/Azure-Data-Engineering-Project/refs/heads/main/Data%20Files/AdventureWorks_Customers.csv",
+        "parameter_sink_folder" : "AdventureWorks_Customers",
+        "parameter_file_name" : "AdventureWorks_Customers.csv"
+    },
+    {
+        "parameter_relative_url" : "Raghav101923/Azure-Data-Engineering-Project/refs/heads/main/Data%20Files/AdventureWorks_Product_Categories.csv",
+        "parameter_sink_folder" : "AdventureWorks_Product_Categories",
+        "parameter_file_name" : "AdventureWorks_Product_Categories.csv"
+    },
+    {
+        "parameter_relative_url" : "Raghav101923/Azure-Data-Engineering-Project/refs/heads/main/Data%20Files/AdventureWorks_Product_Subcategories.csv",
+        "parameter_sink_folder" : "AdventureWorks_Product_Subcategories",
+        "parameter_file_name" : "AdventureWorks_Product_Subcategories.csv"
+    },
+    {
+        "parameter_relative_url" : "Raghav101923/Azure-Data-Engineering-Project/refs/heads/main/Data%20Files/AdventureWorks_Products.csv",
+        "parameter_sink_folder" : "AdventureWorks_Products",
+        "parameter_file_name" : "AdventureWorks_Products.csv"
+	},
+    {
+        "parameter_relative_url" : "Raghav101923/Azure-Data-Engineering-Project/refs/heads/main/Data%20Files/AdventureWorks_Returns.csv",
+        "parameter_sink_folder" : "AdventureWorks_Returns",
+        "parameter_file_name" : "AdventureWorks_Returns.csv"
+    },
+    {
+        "parameter_relative_url" : "Raghav101923/Azure-Data-Engineering-Project/refs/heads/main/Data%20Files/AdventureWorks_Sales_2015.csv",
+        "parameter_sink_folder" : "AdventureWorks_Sales_2015",
+        "parameter_file_name" : "AdventureWorks_Sales_2015.csv"
+    },
+    {
+        "parameter_relative_url" : "Raghav101923/Azure-Data-Engineering-Project/refs/heads/main/Data%20Files/AdventureWorks_Sales_2016.csv",
+        "parameter_sink_folder" : "AdventureWorks_Sales_2016",
+        "parameter_file_name" : "AdventureWorks_Sales_2016.csv"
+    },
+    {
+        "parameter_relative_url" : "Raghav101923/Azure-Data-Engineering-Project/refs/heads/main/Data%20Files/AdventureWorks_Sales_2017.csv",
+        "parameter_sink_folder" : "AdventureWorks_Sales_2017",
+        "parameter_file_name" : "AdventureWorks_Sales_2017.csv"
+    },
+    {
+        "parameter_relative_url" : "Raghav101923/Azure-Data-Engineering-Project/refs/heads/main/Data%20Files/AdventureWorks_Territories.csv",
+        "parameter_sink_folder" : "AdventureWorks_Territories",
+        "parameter_file_name" : "AdventureWorks_Territories.csv"
+    }    
+]
